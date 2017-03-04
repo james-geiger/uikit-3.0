@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jamesgeiger:uikit',
-  version: '3.0.16',
+  version: '3.0.17',
   // Brief, one-line summary of the package.
   summary: 'Meteor package for UIkit 3.0',
   // URL to the Git repository containing the source code for this package.
