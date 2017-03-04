@@ -14,6 +14,7 @@ Package.onUse(function(api) {
   api.use('jquery', ['client']);
   api.addFiles([
     'js/uikit.min.js',
+    'js/uikit-icons.min.js',
     'css/uikit.min.css',
   ],['client']);
   api.addAssets([
