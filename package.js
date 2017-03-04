@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'uikit',
+  name: 'jamesgeiger:uikit',
   version: '3.0.16',
   // Brief, one-line summary of the package.
   summary: 'Meteor package for UIkit 3.0',
@@ -7,7 +7,7 @@ Package.describe({
   git: 'https://github.com/james-geiger/uikit-3.0.git',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
-  documentation: 'README.md'
+  documentation: null
 });
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
